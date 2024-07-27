@@ -1,0 +1,196 @@
+
+2024/01/10 19:00:39
+Is the person a female?
+true
+
+2024/01/10 20:39:19
+Is the person a female?
+true
+
+2024/01/10 23:12:43
+Is the person a female?
+true
+
+2024/01/10 23:15:00
+Is the person a female?
+true
+
+2024/01/10 23:15:52
+Is the person a female?
+true
+
+2024/01/10 23:16:31
+Is the person a female?
+true
+
+2024/01/10 23:22:22
+Is the person a female?
+true
+
+2024/01/10 23:24:02
+Is the person a female?
+true
+
+2024/01/10 23:29:38
+Is the person a female?
+true
+
+2024/01/10 23:29:50
+Is the person a female?
+true
+
+2024/01/11 02:01:59
+Is the person a female?
+true
+
+2024/01/11 02:03:10
+Is the person a female?
+true
+
+2024/01/11 02:05:50
+Is the person a female?
+true
+
+2024/01/11 02:06:37
+Is the person a female?
+true
+
+2024/01/11 02:07:16
+Is the person a female?
+true
+
+2024/01/11 14:53:14
+Is the person a female?
+true
+
+2024/01/11 14:55:24
+Is the person a female?
+true
+
+2024/01/11 14:56:28
+Is the person a female?
+true
+
+2024/01/11 14:56:28
+Does this person have a dark skin tone?
+true
+
+2024/01/11 14:56:56
+Is the person a female?
+true
+
+2024/01/11 15:00:37
+Is the person a female? - true 
+Does this person have a dark skin tone? - true 
+2024/01/11 21:29:56
+Is the person a female? - true 
+2024/01/11 21:31:27
+2024/01/11 21:35:08
+2024/01/11 21:35:27
+2024/01/11 21:36:08
+2024/01/11 21:36:27
+Is the person a female? - true 
+2024/01/11 21:37:16
+2024/01/11 21:37:42
+Is the person a female? - true 
+2024/01/11 21:38:09
+2024/01/11 21:38:32
+2024/01/11 21:38:52
+Is the person a female? - true 
+Does this person have a dark skin tone? - true 
+Is the eye colour green? - true 
+Is the hair colour white? - true 
+2024/01/11 21:40:38
+2024/01/11 21:41:41
+2024/01/11 21:41:49
+2024/01/11 21:42:14
+2024/01/11 21:43:19
+2024/01/11 21:43:39
+2024/01/11 21:44:00
+2024/01/11 21:45:19
+2024/01/11 21:45:39
+2024/01/11 21:59:41
+2024/01/11 22:00:14
+2024/01/11 22:00:34
+2024/01/11 22:00:53
+2024/01/11 22:01:31
+2024/01/11 22:02:22
+2024/01/11 22:02:31
+Is the person a female? - true 
+2024/01/11 22:04:45
+Is the person a female? - true 
+2024/01/11 22:05:20
+2024/01/11 22:05:28
+Is the person a female? - true 
+2024/01/11 22:06:26
+Is the person a female? - true 
+2024/01/11 22:07:27
+2024/01/11 22:08:50
+Is the person a female? - true 
+2024/01/11 22:11:43
+2024/01/11 22:11:50
+Is the person a female? - true 
+2024/01/11 22:14:16
+2024/01/11 22:14:25
+Is the person a female? - true 
+Does this person have a dark skin tone? - true 
+2024/01/11 22:14:49
+Is the person a female? - true 
+Does this person have a dark skin tone? - true 
+2024/01/11 22:15:46
+Is the person a female? - true 
+2024/01/11 22:16:12
+Is the person a female? - true 
+Does this person have a dark skin tone? - true 
+2024/01/11 22:17:57
+Is the person a female? - true 
+2024/01/11 22:18:31
+Is the person a female? - true 
+2024/01/11 22:24:14
+Is the person a female? - true 
+2024/01/11 22:24:52
+2024/01/11 22:24:57
+Is the person a female? - true 
+2024/01/11 22:26:01
+Is the person a female? - true 
+2024/01/11 22:28:53
+2024/01/11 22:28:59
+Is the person a female? - true 
+2024/01/11 22:29:47
+Is the person a female? - true 
+Does this person have a dark skin tone? - true 
+2024/01/11 22:31:26
+Is the person a female? - true 
+2024/01/11 22:41:13
+Is the person a female? - true 
+2024/01/11 22:43:16
+Is the person a female? - true2024/01/13 21:24:24
+Is the person a male? - false 
+2024/01/13 21:25:48
+Is the person a male? - true 
+2024/01/13 21:29:15
+Is the person a male? - true 
+2024/01/14 15:46:00
+2024/01/14 15:46:39
+Is the person a male? - true 
+2024/01/14 15:47:05
+2024/01/14 15:47:09
+2024/01/14 15:47:13
+2024/01/14 15:47:18
+2024/01/14 15:48:07
+Is the person a male? - true 
+2024/01/15 17:51:58
+Is the person a male? - true 
+Does the person have a light skin tone? - true 
+Is the eye colour brown? - false 
+Is the eye colour green? - false 
+2024/01/23 15:21:57
+Is the person a male? - true 
+Does the person have a light skin tone? - true 
+Is the eye colour brown? - false 
+Is the eye colour green? - true 
+2024/01/23 15:28:49
+Is the person a male? - false 
+Does the person have visible teeth? - true 
+Is the eye colour green? - true 
+Is the hair colour black? - true 

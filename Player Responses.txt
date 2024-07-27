@@ -1,0 +1,29 @@
+2024/01/13 21:24:24
+Does the person have no facial hair? - true 
+2024/01/13 21:25:48
+Is the person not wearing glasses? - true 
+2024/01/13 21:29:15
+Does the person have no facial hair? - true 
+2024/01/14 15:46:00
+2024/01/14 15:46:39
+Is the person not wearing glasses? - true 
+2024/01/14 15:47:05
+2024/01/14 15:47:09
+2024/01/14 15:47:13
+2024/01/14 15:47:18
+2024/01/14 15:48:07
+2024/01/15 17:51:58
+Does this person have a dark skin tone? - true 
+Does the person have a light skin tone? - false 
+Does this person have a dark skin tone? - true 
+Does the person not have an ear piercing? - true 
+2024/01/23 15:21:57
+Is the person a male? - true 
+Does this person have a dark skin tone? - true 
+Does the person have facial hair? - true 
+Is the person wearing glasses? - false 
+2024/01/23 15:28:49
+Is the person a female? - true 
+Does the person have visible teeth? - true 
+Does the person have an ear piercing? - true 
+Does the person have long hair? - false 

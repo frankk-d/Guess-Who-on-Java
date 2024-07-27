@@ -1,0 +1,26 @@
+Is the eye colour brown?
+Is the eye colour green?
+Is the eye colour blue?
+Is the person a male?
+Is the person a female?
+Does the person have a light skin tone?
+Does this person have a dark skin tone?
+Is the hair colour black?
+Is the hair colour brown?
+Is the hair colour ginger?
+Is the hair colour blonde?
+Is the hair colour white?
+Does the person have facial hair?
+Does the person have no facial hair?
+Is the person wearing glasses?
+Is the person not wearing glasses?
+Does the person have visible teeth?
+Is the person not showing teeth?
+Is the person wearing a hat?
+Is the person not wearing a hat?
+Does the person have short hair?
+Does the person have their hair tied up?
+Does the person have long hair?
+Is the person bald?
+Does the person have an ear piercing?
+Does the person not have an ear piercing?

@@ -1,0 +1,6 @@
+static JPanel mainMenu = new JPanel();
+static JPanel mainGame = new JPanel();
+static JPanel[] rulePage = new JPanel[7];
+static JPanel gameEnd = new JPanel();
+static JPanel playerEnterName = new JPanel();
+static JPanel turnPanel=new JPanel();

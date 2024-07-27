@@ -1,0 +1,25 @@
+Name	Eye Colour	Gender	Skin Tone	Hair Colour	Facial Hair	Glasses		Teeth Visible	Wearing Hat	Hair Length	Piercings
+Al	green		male	dark		white		true		true		false		false		bald		false
+Amy	brown		female	light		black		false		true		false		false		short		false
+Ben	brown		male	light		brown		false		true		false		false		short		true
+Carmen	brown		female	dark		white		false		false		true		false		short		true
+Daniel	green		male	light		ginger		true		false		false		false		tied		false
+David	brown		male	light		blonde		true		false		true		true		short		false
+Emma	brown		female	light		ginger		false		false		false		false		tied		false
+Eric	blue		male	light		black		false		false		false		false		short		false
+Farah	blue		female	dark		black		false		false		false		false		tied		false
+Gabe	brown		male	dark		black		false		false		false		false		short		false
+Joe	brown		male	dark		white		true		true            true		false		bald		false
+Jordan	brown		male	dark		black		true		false		false		false		short		true
+Katie	blue		female	light		blonde		false		false		false		true		tied		false
+Laura	green		female	dark		black		false		false		true		false		long		true
+Leo	brown		male	dark		white		true            false		true		false		short		false
+Lily	green		female	dark		brown		false		false		true		true		long		false
+Liz	blue		female	light		white		false		true		true		false		long		false
+Olivia	brown		female	dark		black		false		false		false		false		tied		false
+Mia	brown		female	dark		black		false		false		true		false		long 		false
+Mike	brown		male	light		black		false		false		true		true		short		false
+Nick	brown		male	light		blonde		false		false		false		false		short		true
+Rachel	blue		female	light		brown		false		true		false		false		long		true
+Sam	green		male	dark		black		false		false		false		true		short		false
+Sofia	green		female	dark		brown		false		false		true		false		short		true
